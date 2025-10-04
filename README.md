@@ -1,6 +1,4 @@
-Here's the updated and expanded introduction, incorporating the touch-and-move functionality:
 
-***
 
 ## Project Introduction: Dynamic, Repositionable Text Editor
 
